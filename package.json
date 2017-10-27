@@ -1,0 +1,22 @@
+{
+  "name": "studyfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeonilJang/2017yearGeonil.git"
+  },
+  "keywords": [
+    "study2017"
+  ],
+  "author": "Geonil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeonilJang/2017yearGeonil/issues"
+  },
+  "homepage": "https://github.com/GeonilJang/2017yearGeonil#readme"
+}
