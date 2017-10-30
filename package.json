@@ -18,5 +18,19 @@
   "bugs": {
     "url": "https://github.com/GeonilJang/2017yearGeonil/issues"
   },
-  "homepage": "https://github.com/GeonilJang/2017yearGeonil#readme"
+  "homepage": "https://github.com/GeonilJang/2017yearGeonil#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.2",
+    "express-error-handler": "^1.1.0",
+    "http": "0.0.0",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.12.4",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7",
+    "serve-static": "^1.13.1",
+    "supervisor": "^0.12.0"
+  }
 }
